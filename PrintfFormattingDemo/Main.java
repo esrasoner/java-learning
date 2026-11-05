@@ -11,7 +11,7 @@ public class Main {
         System.out.printf("Selam %s.\n", isim);
         System.out.printf("Ismin %c ile basliyor.\n", ilkharf);
         System.out.printf("%d yasindasin.\n", yas); 
-        // %i diye bir sey yok, int ici %d kullanilir. (%d = decimal)
+        // %i diye bir sey yok, int icin %d kullanilir. (%d = decimal)
         System.out.printf("Issizlik durumun: %b", issizMi);
 
     }
